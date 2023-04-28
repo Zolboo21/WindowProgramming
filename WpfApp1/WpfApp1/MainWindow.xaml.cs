@@ -24,5 +24,15 @@ namespace WpfApp1
         {
             InitializeComponent();
         }
+
+        private void sli_ValueChanged(object sender, System.Windows.RoutedPropertyChangedEventArgs<double> e)
+        {
+            SolidColorBrush magicBrush = (SolidColorBrush)this.Resources["magicBrush"];
+
+            if ((sliR != null) && (sliG != null) && (sliB != null))
+            {
+                magicBrush.Color = Color.FromRgb((byte)sliR.Value, (byte)sliG.Value, (byte)sliB.Value);
+            }
+        }
     }
 }

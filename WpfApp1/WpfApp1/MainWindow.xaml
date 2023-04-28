@@ -5,9 +5,31 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="500" Width="800">
+    <Window.Resources>
+        <SolidColorBrush x:Key="magicBrush" Color="Red"/>
+    </Window.Resources>
     <Grid>
-        <Button Content="Button" Background="Aqua" HorizontalAlignment="Left" Margin="270,185,0,0" VerticalAlignment="Top" Height="74" Width="111"/>
 
+        <Label Content="R" VerticalAlignment="Top" Margin="63,130,700,0" Height="45" FontWeight="Bold" />
+        <Slider Name="sliR" Margin="105,130,98,309" Minimum="0" Maximum="255" TickFrequency="1" IsSnapToTickEnabled="True"
+            Value="255"
+            ValueChanged="sli_ValueChanged" Height="NaN" Width="NaN"/>
+        <Label Content="{Binding ElementName=sliR, Path=Value}" VerticalAlignment="Top" Margin="734,130,10,0" Width="NaN" Height="45" FontWeight="Bold"/>
+
+        <Label Content="G" VerticalAlignment="Top" Margin="63,180,700,0" Height="45" FontWeight="Bold" />
+        <Slider Name="sliG" Margin="105,193,98,247" Minimum="0" Maximum="255" TickFrequency="1" IsSnapToTickEnabled="True"
+            Value="255"
+            ValueChanged="sli_ValueChanged" Height="NaN" Width="NaN"/>
+        <Label Content="{Binding ElementName=sliG, Path=Value}" VerticalAlignment="Top" Margin="734,182,10,0" Width="NaN" Height="43" FontWeight="Bold"/>
+
+        <Label Content="B" VerticalAlignment="Top" Margin="63,230,700,0" Height="46" FontWeight="Bold" />
+        <Slider Name="sliB" Margin="105,242,98,197" Minimum="0" Maximum="255" TickFrequency="1" IsSnapToTickEnabled="True"
+            ValueChanged="sli_ValueChanged" Height="NaN" Width="NaN"/>
+        <Label Content="{Binding ElementName=sliB, Path=Value}" VerticalAlignment="Top" Margin="734,233,10,0" Width="NaN" Height="43" FontWeight="Bold"/>
+
+        <Ellipse Stroke="Black" Margin="334,292,326,56" Fill="{StaticResource magicBrush}" />
+        <Ellipse HorizontalAlignment="Left" Height="49" Margin="360,311,0,0" Stroke="Black" VerticalAlignment="Top" Width="31" Fill="Black"/>
+        <Ellipse HorizontalAlignment="Left" Height="49" Margin="416,311,0,0" Stroke="Black" VerticalAlignment="Top" Width="31" Fill="Black"/>
     </Grid>
 </Window>

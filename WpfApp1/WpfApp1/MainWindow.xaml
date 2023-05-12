@@ -3,12 +3,15 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:WpfApp1"
+        xmlns:local="clr-namespace:WpfApp1" xmlns:local1="clr-namespace:WpfApp1.ViewModel"
         mc:Ignorable="d"
         Title="MainWindow" Height="500" Width="800">
     <Window.Resources>
         <SolidColorBrush x:Key="magicBrush" Color="Red"/>
     </Window.Resources>
+    <Window.DataContext>
+        <local:ViewModelClass/>
+    </Window.DataContext>
     <Grid>
 
         <Label Content="R" VerticalAlignment="Top" Margin="63,130,700,0" Height="45" FontWeight="Bold" />

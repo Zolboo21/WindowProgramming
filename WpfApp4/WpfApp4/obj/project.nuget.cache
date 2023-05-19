@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JFYBznfPi0c2YghEbCVVGq3OXUGYB7XlxAcqv6hWwCdYY94cg5RD+t2H8gpVU/gNDCP5fFVeuGAoMW7ssp22rQ==",
+  "dgSpecHash": "NoupdZxpD0lotmDfmh5N0ovE4dzDAwUviDoBhKyQYWQnu/+VOdAK9zGYVxGpnw3aab3pzhbTdHRr6UbepgofCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\WpfApp4\\WpfApp4\\WpfApp4.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\SW\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512"
+  ],
   "logs": []
 }

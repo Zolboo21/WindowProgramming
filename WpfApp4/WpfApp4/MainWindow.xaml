@@ -10,8 +10,7 @@
         <local:MainWindowViewModel/>
     </Window.DataContext>
     <Grid>
-        <Button x:Name="button" Command="{Binding ButtonCommand}" Content="Button" HorizontalAlignment="Left" Height="70" Margin="230,217,0,0" VerticalAlignment="Top" Width="189"/>
-        
+        <ListBox x:Name="listBox" ItemSource="{Binding Cars}" HorizontalAlignment="Left" Height="202" Margin="159,72,0,0" VerticalAlignment="Top" Width="160" d:ItemsSource="{d:SampleData ItemCount=5}"/>
 
     </Grid>
 </Window>

@@ -10,7 +10,29 @@
         <local:MainWindowViewModel/>
     </Window.DataContext>
     <Grid>
-        <ListBox x:Name="listBox" ItemsSource="{Binding Cars}" HorizontalAlignment="Left" Height="202" Margin="159,72,0,0" VerticalAlignment="Top" Width="160" d:ItemsSource="{d:SampleData ItemCount=5}"/>
-
+        <ListBox x:Name="listBox" ItemsSource="{Binding Cars}" HorizontalAlignment="Left" Height="202" Margin="159,72,0,0" VerticalAlignment="Top" Width="160" d:ItemsSource="{d:SampleData ItemCount=5}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Company : "/>
+                            <TextBlock Text="{Binding Path=Company}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Model : "/>
+                            <TextBlock Text="{Binding Path=Model}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Color: "/>
+                            <Border Height="10" Width="100" HorizontalAlignment="Left">
+                                <Border.Background>
+                                    <SolidColorBrush Color="{Binding color}"/>
+                                </Border.Background>
+                            </Border>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
     </Grid>
 </Window>

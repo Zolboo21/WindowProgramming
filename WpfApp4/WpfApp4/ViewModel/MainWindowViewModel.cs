@@ -15,7 +15,12 @@ namespace WpfApp4.ViewModel
         public String Company { get; set; }
         public String Model { get; set; }
         public String Year { get; set; }
-        public Color CarColor { get; set; }
+        public Color color { get; set; }
+
+        public override string ToString()
+        {
+            return Company + " " + Model + " " + Year + " " + color;
+        }
     }
         class MainWindowViewModel
         {
@@ -33,9 +38,9 @@ namespace WpfApp4.ViewModel
             {
                 _cars = new List<Car>();
 
-                _cars.Add(new Car() { Company = "Benz", Model = "Gle", Year = "1996", CarColor = Colors.Aqua });
-                _cars.Add(new Car() { Company = "Bmw", Model = "x5", Year = "2011", CarColor = Colors.Blue });
-                _cars.Add(new Car() { Company = "Hyundae", Model = "Sonata", Year = "2011", CarColor = Colors.Gold });
+                _cars.Add(new Car() { Company = "Benz", Model = "Gle", Year = "1996", color = Colors.Aqua });
+                _cars.Add(new Car() { Company = "Bmw", Model = "x5", Year = "2011", color = Colors.Blue });
+                _cars.Add(new Car() { Company = "Hyundae", Model = "Sonata", Year = "2011", color = Colors.Gold });
             }
         }
 }

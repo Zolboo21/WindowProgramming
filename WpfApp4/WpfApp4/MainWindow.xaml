@@ -10,7 +10,8 @@
         <local:MainWindowViewModel/>
     </Window.DataContext>
     <Grid>
-        <ListBox x:Name="listBox" ItemsSource="{Binding Cars}" HorizontalAlignment="Left" Height="202" Margin="159,72,0,0" VerticalAlignment="Top" Width="160" d:ItemsSource="{d:SampleData ItemCount=5}">
+
+        <ListBox x:Name="listBox" ItemsSource="{Binding Cars}" SelectedItem="{Binding SelectedCar}" HorizontalAlignment="Left" Height="202" Margin="126,87,0,0" VerticalAlignment="Top" Width="160" d:ItemsSource="{d:SampleData ItemCount=5}">
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel>
@@ -34,12 +35,27 @@
                 </DataTemplate>
             </ListBox.ItemTemplate>
         </ListBox>
-        <TextBlock x:Name="textBoxCompany" HorizontalAlignment="Left" Height="29" Margin="487,104,0,0" Text="TextBox"/>
-        <TextBlock x:Name="textBoxModel" HorizontalAlignment="Left" Height="27" Margin="457,151,0,0" Text="TextBox"/>
-        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Height="29" Margin="457,198,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="label" Content="Company" HorizontalAlignment="Center" Height="29" Margin="0,104,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="label1" Content="Model" HorizontalAlignment="Center" Height="27" Margin="0,151,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="label2" Content="Color" HorizontalAlignment="Center" Height="30" Margin="0,194,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBoxCompany" Text="{Binding NewCar.Company}" HorizontalAlignment="Left" Margin="474,100,0,305" Width="225"/>
+        <TextBlock x:Name="textBoxModel" Text="{Binding NewCar.Model}" HorizontalAlignment="Left" Margin="473,151,0,256" Width="251"/>
+        <ComboBox x:Name="comboBox" ItemsSource="{Binding CarColors}" SelectedItem="{Binding NewCar.CarColor}" HorizontalAlignment="Left" Height="29" Margin="464,216,0,0" VerticalAlignment="Top" Width="103" RenderTransformOrigin="-0.316,0.45">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <Border Height="10" Width="100" HorizontalAlignment="Left" Margin="5">
+                        <Border.Background>
+                            <SolidColorBrush Color="{Binding}"/>
+                        </Border.Background>
+                    </Border>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <Label x:Name="label" Content="Company" HorizontalAlignment="Left" Height="29" Margin="387,95,0,0" VerticalAlignment="Top" Width="60"/>
+        <Label x:Name="label1" Content="Model" HorizontalAlignment="Center" Height="27" Margin="0,151,0,0" VerticalAlignment="Top" Grid.Column="2" Width="50"/>
+        <Label x:Name="label2" Content="Color" HorizontalAlignment="Left" Height="30" Margin="387,217,0,0" VerticalAlignment="Top" Width="39" RenderTransformOrigin="8.346,1.401"/>
+
+        <Button x:Name="buttonAdd" Content="Add" Command="{Binding AddCar}" HorizontalAlignment="Center" Height="35" Margin="0,305,0,0" VerticalAlignment="Bottom"/>
+        <Button x:Name="buttonModify" Content="Modify"  Command ="{Binding ModifyCar}" HorizontalAlignment="Left" Height="35" Margin="494,309,0,0" VerticalAlignment="Bottom"/>
+        <Button x:Name="buttonDelete" Content="Delete" Command="{Binding DeleteCar}" HorizontalAlignment="Left" Height="35" Margin="641,309,0,0" VerticalAlignment="Bottom"/>
 
     </Grid>
 </Window>

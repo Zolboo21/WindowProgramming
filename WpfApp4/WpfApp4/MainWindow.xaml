@@ -27,7 +27,7 @@
                             <TextBlock Text="Color: "/>
                             <Border Height="10" Width="100" HorizontalAlignment="Left">
                                 <Border.Background>
-                                    <SolidColorBrush Color="{Binding color}"/>
+                                    <SolidColorBrush Color="{Binding CarColor}"/>
                                 </Border.Background>
                             </Border>
                         </StackPanel>
@@ -35,8 +35,8 @@
                 </DataTemplate>
             </ListBox.ItemTemplate>
         </ListBox>
-        <TextBlock x:Name="textBoxCompany" Text="{Binding NewCar.Company}" HorizontalAlignment="Left" Margin="474,100,0,305" Width="225"/>
-        <TextBlock x:Name="textBoxModel" Text="{Binding NewCar.Model}" HorizontalAlignment="Left" Margin="473,151,0,256" Width="251"/>
+        <TextBox HorizontalAlignment="Left" Text="{Binding NewCar.Company}" Height="36" Margin="473,95,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="166"/>
+        <TextBox HorizontalAlignment="Left" Text="{Binding NewCar.Model}" Height="36" Margin="473,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="166"/>
         <ComboBox x:Name="comboBox" ItemsSource="{Binding CarColors}" SelectedItem="{Binding NewCar.CarColor}" HorizontalAlignment="Left" Height="29" Margin="464,216,0,0" VerticalAlignment="Top" Width="103" RenderTransformOrigin="-0.316,0.45">
             <ComboBox.ItemTemplate>
                 <DataTemplate>

@@ -137,8 +137,8 @@ namespace WpfApp4.ViewModel
 
         private void ModifyCarExecute()
         {
-            if(_selectedCar == null)
-            {
+            if(_selectedCar != null)            
+            {     
                 _selectedCar.CarColor = NewCar.CarColor;
                 _selectedCar.Company = NewCar.Company;
                 _selectedCar.Model = NewCar.Model;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\week12_windowPro\\week13\\week13\\week13.csproj": {}
+    "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\WpfApp7\\week13\\week13\\week13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\week12_windowPro\\week13\\week13\\week13.csproj": {
+    "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\WpfApp7\\week13\\week13\\week13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\week12_windowPro\\week13\\week13\\week13.csproj",
+        "projectUniqueName": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\WpfApp7\\week13\\week13\\week13.csproj",
         "projectName": "week13",
-        "projectPath": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\week12_windowPro\\week13\\week13\\week13.csproj",
+        "projectPath": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\WpfApp7\\week13\\week13\\week13.csproj",
         "packagesPath": "C:\\Users\\SW\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\week12_windowPro\\week13\\week13\\obj\\",
+        "outputPath": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\WpfApp7\\week13\\week13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SW\\AppData\\Roaming\\NuGet\\NuGet.Config",

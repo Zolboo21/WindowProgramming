@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\SW\Documents\GitHub\WindowProgramming\week12_windowPro\week13\week13\obj\Debug\net6.0-windows\
+C:\Users\SW\Documents\GitHub\WindowProgramming\WpfApp7\week13\week13\obj\Debug\net6.0-windows\
 week13
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\SW\Documents\GitHub\WindowProgramming\week12_windowPro\week13\week13\App.xaml
+C:\Users\SW\Documents\GitHub\WindowProgramming\WpfApp7\week13\week13\App.xaml
 2-524533738
 
 10-48981726
 195-95359815
 ExamWindow.xaml;MainWindow.xaml;
 
-True
+False
 

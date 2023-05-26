@@ -1,0 +1,7 @@
+C:\Users\SW\Documents\GitHub\WindowProgramming\WpfApp6\WpfApp6\obj\Debug\net6.0-windows\WpfApp6.csproj.AssemblyReference.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\WpfApp6\WpfApp6\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\SW\Documents\GitHub\WindowProgramming\WpfApp6\WpfApp6\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\SW\Documents\GitHub\WindowProgramming\WpfApp6\WpfApp6\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\SW\Documents\GitHub\WindowProgramming\WpfApp6\WpfApp6\obj\Debug\net6.0-windows\WpfApp6_MarkupCompile.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\WpfApp6\WpfApp6\obj\Debug\net6.0-windows\WpfApp6_MarkupCompile.lref
+C:\Users\SW\Documents\GitHub\WindowProgramming\WpfApp6\WpfApp6\obj\Debug\net6.0-windows\ExamWindow.g.cs

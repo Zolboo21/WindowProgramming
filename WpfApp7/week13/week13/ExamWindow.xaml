@@ -12,10 +12,22 @@
     </Window.DataContext>
 
     <Grid>
-        <Button Click="Ok_click" Content="ok" HorizontalAlignment="Left" Margin="582,329,0,0" VerticalAlignment="Top" Height="35" Width="164" />
         <Button Click="Cancel_click" Content="cancel" HorizontalAlignment="Left" Margin="324,329,0,0" VerticalAlignment="Top" Height="30" Width="192"/>
-        <TextBlock HorizontalAlignment="Left" Margin="246,123,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="76" Width="108"><Run Language="ko-kr" Text="Second Window"/></TextBlock>
+        <Button Click="Ok_click" Content="ok" HorizontalAlignment="Left" Margin="582,329,0,0" VerticalAlignment="Top" Height="35" Width="164" />
+        <ListView x:Name="listView" ItemsSource="{Binding Studys}"  Margin="28,39,10,110">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Patient ID" Width="100" DisplayMemberBinding="{Binding PatientID}"/>
+                    <GridViewColumn Header="Nmae" Width="100" DisplayMemberBinding="{Binding PatientName}"/>
+                    <GridViewColumn Header="Sex" Width="30" DisplayMemberBinding="{Binding Sex}"/>
+                    <GridViewColumn Header="Accession #" Width="100" DisplayMemberBinding="{Binding AccessionNumber}"/>
+                    <GridViewColumn Header="Study Date" Width="100" DisplayMemberBinding="{Binding StudyDate}"/>
+                    <GridViewColumn Header="Study Time" Width="100" DisplayMemberBinding="{Binding StudyTime}"/>
+                    <GridViewColumn Header="Num Images" Width="80" DisplayMemberBinding="{Binding NumImages}"/>
+                    <GridViewColumn Header="Study Description" Width="200" DisplayMemberBinding="{Binding Description}"/>
 
-
+                </GridView>
+            </ListView.View>
+        </ListView>
     </Grid>
 </Window>

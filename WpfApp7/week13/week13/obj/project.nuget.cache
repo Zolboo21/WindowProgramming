@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ghKn+rwM7sNzG9EKKwc2DNZrYWOumakwKkeB7uwzs+oKCnsC0VakW7hl2GxKGIfIO3VnVoydHHYF/d9r3XP8FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\week12_windowPro\\week13\\week13\\week13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SW\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

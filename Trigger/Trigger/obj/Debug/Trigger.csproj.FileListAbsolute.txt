@@ -14,3 +14,4 @@ C:\Users\SW\Documents\GitHub\WindowProgramming\Trigger\Trigger\obj\Debug\Trigger
 C:\Users\SW\Documents\GitHub\WindowProgramming\Trigger\Trigger\obj\Debug\Trigger.csproj.CoreCompileInputs.cache
 C:\Users\SW\Documents\GitHub\WindowProgramming\Trigger\Trigger\obj\Debug\Trigger.exe
 C:\Users\SW\Documents\GitHub\WindowProgramming\Trigger\Trigger\obj\Debug\Trigger.pdb
+C:\Users\SW\Documents\GitHub\WindowProgramming\Trigger\Trigger\obj\Debug\GeneratedInternalTypeHelper.g.cs

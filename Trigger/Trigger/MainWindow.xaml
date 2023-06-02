@@ -33,13 +33,16 @@
                 </Setter.Value>
             </Setter>
         </Style>
+        <local:HalfConverter x:Key="halfConverter"/>
     </Window.Resources>
     <Grid>
         <Button x:Name="button" Style="{StaticResource ButtonStyle}" Content="Button" HorizontalAlignment="Center" VerticalAlignment="Center" Height="113" Width="131">
             <Button.RenderTransform>
-                <RotateTransform x:Name="animatedTransform" Angle="0"/>
+                <RotateTransform x:Name="animatedTransform" Angle="0"
+                                 CenterX="{Binding ElementName=button, Path=Width, Converter={StaticResource halfConverter}}"
+                                 CenterY="{Binding ElementName=button, Path=Width, Converter={StaticResource halfConverter}}"/>
             </Button.RenderTransform>
-            <Button.Triggers>
+            <Button.Triggers> 
                 <EventTrigger RoutedEvent="Button.Click">
                     <BeginStoryboard>
                         <Storyboard>

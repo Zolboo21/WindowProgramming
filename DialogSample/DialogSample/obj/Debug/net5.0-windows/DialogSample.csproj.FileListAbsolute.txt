@@ -1,7 +1,0 @@
-C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net5.0-windows\DialogSample.csproj.AssemblyReference.cache
-C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net5.0-windows\ExamWindow.g.cs
-C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net5.0-windows\MainWindow.g.cs
-C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net5.0-windows\App.g.cs
-C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
-C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net5.0-windows\DialogSample_MarkupCompile.cache
-C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net5.0-windows\DialogSample_MarkupCompile.lref

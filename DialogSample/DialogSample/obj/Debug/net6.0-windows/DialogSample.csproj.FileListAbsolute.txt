@@ -1,0 +1,36 @@
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample.csproj.AssemblyReference.cache
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\ExamWindow.g.cs
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample_MarkupCompile.cache
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample_MarkupCompile.lref
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\bin\Debug\net6.0-windows\DialogSample.exe
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\bin\Debug\net6.0-windows\DialogSample.deps.json
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\bin\Debug\net6.0-windows\DialogSample.runtimeconfig.json
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\bin\Debug\net6.0-windows\DialogSample.dll
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\bin\Debug\net6.0-windows\DialogSample.pdb
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\ExamWindow.baml
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample.g.resources
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample.AssemblyInfoInputs.cache
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample.AssemblyInfo.cs
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample.csproj.CoreCompileInputs.cache
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample.csproj.CopyComplete
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample.dll
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\refint\DialogSample.dll
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample.pdb
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample.genruntimeconfig.cache
+C:\Users\SW\Downloads\14주차\실습1 - 공유\DialogSample\DialogSample\obj\Debug\net6.0-windows\ref\DialogSample.dll
+C:\Users\SW\Documents\GitHub\WindowProgramming\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample.csproj.AssemblyReference.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\DialogSample\DialogSample\obj\Debug\net6.0-windows\ExamWindow.g.cs
+C:\Users\SW\Documents\GitHub\WindowProgramming\DialogSample\DialogSample\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\SW\Documents\GitHub\WindowProgramming\DialogSample\DialogSample\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\SW\Documents\GitHub\WindowProgramming\DialogSample\DialogSample\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\SW\Documents\GitHub\WindowProgramming\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample_MarkupCompile.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample_MarkupCompile.lref
+C:\Users\SW\Documents\GitHub\WindowProgramming\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample.dll
+C:\Users\SW\Documents\GitHub\WindowProgramming\DialogSample\DialogSample\obj\Debug\net6.0-windows\refint\DialogSample.dll
+C:\Users\SW\Documents\GitHub\WindowProgramming\DialogSample\DialogSample\obj\Debug\net6.0-windows\DialogSample.pdb

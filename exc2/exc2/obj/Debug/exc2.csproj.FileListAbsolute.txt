@@ -1,0 +1,16 @@
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\bin\Debug\exc2.exe.config
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\bin\Debug\exc2.exe
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\bin\Debug\exc2.pdb
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\obj\Debug\exc2.csproj.AssemblyReference.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\obj\Debug\exc2.csproj.SuggestedBindingRedirects.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\obj\Debug\MainWindow.g.cs
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\obj\Debug\App.g.cs
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\obj\Debug\exc2_MarkupCompile.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\obj\Debug\exc2_MarkupCompile.lref
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\obj\Debug\MainWindow.baml
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\obj\Debug\exc2.g.resources
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\obj\Debug\exc2.Properties.Resources.resources
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\obj\Debug\exc2.csproj.GenerateResource.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\obj\Debug\exc2.csproj.CoreCompileInputs.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\obj\Debug\exc2.exe
+C:\Users\SW\Documents\GitHub\WindowProgramming\exc2\exc2\obj\Debug\exc2.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Lw+sn535DjwskmxVdOTRjqd5vB8bBtHM6GcJmA7Pjz/8tZfKNDmd71ehSLY8/OCvdtLUkuXzcVbZnVIBX2iUQ==",
+  "dgSpecHash": "UgPmpk/ToXnbyPQBY3hXLM4jcwuA3efOOcEl93t6IsRKVqA7rIMuwwE/gev1wTypcCQGWR8bjXFEwaJNucJS+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SW\\Downloads\\DialogSample\\DialogSample\\DialogSample.csproj",
+  "projectFilePath": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\DialogSample\\DialogSample\\DialogSample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SW\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512"
   ],

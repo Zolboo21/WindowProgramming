@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SW\\Downloads\\DialogSample\\DialogSample\\DialogSample.csproj": {}
+    "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\DialogSample\\DialogSample\\DialogSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SW\\Downloads\\DialogSample\\DialogSample\\DialogSample.csproj": {
+    "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\DialogSample\\DialogSample\\DialogSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SW\\Downloads\\DialogSample\\DialogSample\\DialogSample.csproj",
+        "projectUniqueName": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\DialogSample\\DialogSample\\DialogSample.csproj",
         "projectName": "DialogSample",
-        "projectPath": "C:\\Users\\SW\\Downloads\\DialogSample\\DialogSample\\DialogSample.csproj",
+        "projectPath": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\DialogSample\\DialogSample\\DialogSample.csproj",
         "packagesPath": "C:\\Users\\SW\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SW\\Downloads\\DialogSample\\DialogSample\\obj\\",
+        "outputPath": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\DialogSample\\DialogSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SW\\AppData\\Roaming\\NuGet\\NuGet.Config",

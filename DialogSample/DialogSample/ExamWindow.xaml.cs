@@ -36,6 +36,11 @@ namespace DialogSample
             DialogResult = true;
             Close();
         }
+
+        private void listView_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
 

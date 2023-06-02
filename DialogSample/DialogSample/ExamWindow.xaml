@@ -5,23 +5,28 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DialogSample"
         xmlns:vm="clr-namespace:DialogSample.ViewModel"
+        xmlns:helper="clr-namespace:DialogSample.Helper"
         mc:Ignorable="d"
         Title="ExamWindow" Height="450" Width="900">
     <Window.DataContext>
         <vm:ExamWindowViewModel/>
     </Window.DataContext>
+    <Window.Resources>
+        <helper:dataConverter x:Key="dataConverter"/>
+        <helper:timeConverter x:Key="timeConverter"/>
+    </Window.Resources>
     <Grid>
         <Button x:Name="CancelBtn" Content="Cancel" Click="CancelBtn_Click" HorizontalAlignment="Left" Margin="594,365,0,0" VerticalAlignment="Top" Height="30" Width="109" />
         <Button x:Name="OkBtn" Content="Ok" Click="OkBtn_Click" HorizontalAlignment="Left" Margin="727,365,0,0" VerticalAlignment="Top" Height="30" Width="109" />
-        <ListView x:Name="listView" ItemsSource="{Binding Studys}" Width ="800" Margin="47,40,53,109">
+        <ListView x:Name="listView" ItemsSource="{Binding Studys}" Width ="800" Margin="47,40,53,109" SelectionChanged="listView_SelectionChanged">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="Patient ID" Width="100" DisplayMemberBinding="{Binding PatientID}"/>
                     <GridViewColumn Header="Name" Width="100" DisplayMemberBinding="{Binding PatientName}"/>
                     <GridViewColumn Header="Sex" Width="30" DisplayMemberBinding="{Binding Sex}"/>
                     <GridViewColumn Header="Accession #" Width="100" DisplayMemberBinding="{Binding AccessionNumber}"/>
-                    <GridViewColumn Header="Study Date" Width="100" DisplayMemberBinding="{Binding StudyDate}"/>
-                    <GridViewColumn Header="Study Time" Width="100" DisplayMemberBinding="{Binding StudyTime}"/>
+                    <GridViewColumn Header="Study Date" Width="100" DisplayMemberBinding="{Binding StudyDate, Converter={StaticResource dataConverter}}"/>
+                    <GridViewColumn Header="Study Time" Width="100" DisplayMemberBinding="{Binding StudyTime, Converter={StaticResource timeConverter}}"/>
                     <GridViewColumn Header="Num Images" Width="80" DisplayMemberBinding="{Binding NumImages}"/>
                     <GridViewColumn Header="Study Description" Width="200" DisplayMemberBinding="{Binding Description}"/>
                 </GridView>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SW\\Downloads\\TermProjectBase\\Twelfth\\Twelfth.csproj": {}
+    "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\TermProjectBase\\Twelfth\\Twelfth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SW\\Downloads\\TermProjectBase\\Twelfth\\Twelfth.csproj": {
+    "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\TermProjectBase\\Twelfth\\Twelfth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SW\\Downloads\\TermProjectBase\\Twelfth\\Twelfth.csproj",
+        "projectUniqueName": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\TermProjectBase\\Twelfth\\Twelfth.csproj",
         "projectName": "Twelfth",
-        "projectPath": "C:\\Users\\SW\\Downloads\\TermProjectBase\\Twelfth\\Twelfth.csproj",
+        "projectPath": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\TermProjectBase\\Twelfth\\Twelfth.csproj",
         "packagesPath": "C:\\Users\\SW\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SW\\Downloads\\TermProjectBase\\Twelfth\\obj\\",
+        "outputPath": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\TermProjectBase\\Twelfth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SW\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,14 +72,6 @@
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[3.1.32, 3.1.32]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
             }
           ],
           "frameworkReferences": {

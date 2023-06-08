@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eZO82fZp4khb3Hux8CaC6Qdtb7klnlzWieCKjEK6okyaeptnZohonKv93KQzkNWVOexbLnTmakCoz6+kSfIzSg==",
+  "dgSpecHash": "Hwyou5N4GfiMwMuZu4YsMVQiGQ6JHB3iaaOi8xpMkCT4l3QJrI7PR+0Sio0j/PjMizjq8vV0zpqIvHqAK/3Xyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SW\\Downloads\\TermProjectBase\\Twelfth\\Twelfth.csproj",
+  "projectFilePath": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\TermProjectBase\\Twelfth\\Twelfth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SW\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
     "C:\\Users\\SW\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
@@ -29,8 +29,6 @@
     "C:\\Users\\SW\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\SW\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\SW\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\SW\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\SW\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\SW\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\SW\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBjHRm8fU62Gdl9eGqtiyajs3Ik8cQqP7BRWLkZLY+grgkEgQnEuxe4mSwxDOcoiA1m32uQVMePbgJYlNwsOwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SW\\Documents\\GitHub\\WindowProgramming\\WpfApp12\\WpfApp12\\WpfApp12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SW\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\SW\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\obj\Debug\final_zolbo.csproj.AssemblyReference.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\obj\Debug\final_zolbo.csproj.SuggestedBindingRedirects.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\obj\Debug\MainWindow.g.cs
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\obj\Debug\App.g.cs
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\obj\Debug\final_zolbo_MarkupCompile.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\obj\Debug\final_zolbo_MarkupCompile.lref
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\obj\Debug\final_zolbo.exe
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\obj\Debug\final_zolbo.pdb
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\bin\Debug\final_zolbo.exe.config
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\bin\Debug\final_zolbo.exe
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\bin\Debug\final_zolbo.pdb
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\obj\Debug\MainWindow.baml
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\obj\Debug\final_zolbo.g.resources
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\obj\Debug\final_zolbo.Properties.Resources.resources
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\obj\Debug\final_zolbo.csproj.GenerateResource.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\final_zolbo\final_zolbo\obj\Debug\final_zolbo.csproj.CoreCompileInputs.cache

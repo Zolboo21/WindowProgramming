@@ -1,0 +1,17 @@
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\obj\Debug\final2.csproj.AssemblyReference.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\obj\Debug\final2.csproj.SuggestedBindingRedirects.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\obj\Debug\MainWindow.g.cs
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\obj\Debug\App.g.cs
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\obj\Debug\final2_MarkupCompile.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\obj\Debug\final2_MarkupCompile.lref
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\bin\Debug\final2.exe.config
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\bin\Debug\final2.exe
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\bin\Debug\final2.pdb
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\obj\Debug\MainWindow.baml
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\obj\Debug\final2.g.resources
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\obj\Debug\final2.Properties.Resources.resources
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\obj\Debug\final2.csproj.GenerateResource.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\obj\Debug\final2.csproj.CoreCompileInputs.cache
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\obj\Debug\final2.exe
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\obj\Debug\final2.pdb
+C:\Users\SW\Documents\GitHub\WindowProgramming\final2\final2\obj\Debug\GeneratedInternalTypeHelper.g.cs

@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace final_zolbo
+namespace test
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -23,11 +23,9 @@ namespace final_zolbo
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void listBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-
+            clsDate objDate = new clsDate();
+            objDate.Year = DateTime.Now.Year;
+            txtCurrentYear.DataContext = objDate;
         }
     }
 }

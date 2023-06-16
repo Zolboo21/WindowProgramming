@@ -79,7 +79,7 @@ namespace Twelfth {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Twelfth;V1.0.0.0;component/examwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Twelfth;component/examwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ExamWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
